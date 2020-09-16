@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Gauntly/.dotnet/store/|arch|/|tfm|",
+      "/Users/Gauntly/.nuget/packages"
+    ]
+  }
+}
